@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-style: italic;
+  color:cyan;
+
+}
+h2{
+  text-align: center;
+  font-style: italic;
+}
+.form-group{
+  padding:10px;
+}
+h4{
+  font-size: 1.2em;
+  text-align: center;
+  font-variant: small-caps;
+  padding:10px;
+}
+
+.carouselslide{
+  margin: 30px;
+}
+.cardmb-3, .cardmb-4{
+  display:inline;
+}
+footer{
+  background-color: black;
+  color:white;
+  display:block;
+  padding:15px;
+  font-variant: small-caps;
+  text-align: center;
+  
+}
